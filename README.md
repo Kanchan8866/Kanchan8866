@@ -1,16 +1,22 @@
-- 👋 Hi, I’m @Kanchan8866
-- 👀 I’m interested in exploring and analyzing diverse datasets to derive meaningful insights.
-- 🌱 I’m proficient in Excel for data manipulation, SQL for database querying, and visualizing data with Power BI and Tableau.
-- 💞️ I’m looking to collaborate on data-driven projects that make a positive impact.
-- 📫 How to reach me: https://www.linkedin.com/in/kanchan-prajapati-2ba8ab1a8/
+<h1 align="center">Hi 👋, I'm Kanchan Prajapati</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.truesenseamc.com/assets/img/data.gif"> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchan8866&label=Profile%20views&color=0e75b6&style=flat" alt="kanchan8866" /> </p>
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can turn any dataset into a story that unveils hidden patterns!
+- 📫 How to reach me **kanchanprajapati06@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kanchan prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchan prajapati" height="30" width="40" /></a>
+</p>
 
-<!---
-Kanchan8866/Kanchan8866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchan8866&show_icons=true&locale=en&layout=compact" alt="kanchan8866" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchan8866&show_icons=true&locale=en" alt="kanchan8866" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan8866&" alt="kanchan8866" /></p>
