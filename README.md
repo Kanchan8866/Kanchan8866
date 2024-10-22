@@ -1,22 +1,51 @@
 <h1 align="center">Hi 👋, I'm Kanchan Prajapati</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.truesenseamc.com/assets/img/data.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchan8866&label=Profile%20views&color=0e75b6&style=flat" alt="kanchan8866" /> </p>
+# 💫 About Me:
+👋 Hi there! I’m Kanchan Prajapati, an aspiring **Data Analyst** with a passion for transforming raw data into actionable insights.<br>I specialize in building interactive dashboards and reports using **Power BI** and **Tableau** to visualize key business metrics, optimize decision-making, and drive insights from large datasets. 
 
-- 📫 How to reach me **kanchanprajapati06@gmail.com**
+### My expertise includes:<br>
+- **ETL processes**: Using Power Query and SQL to clean and transform data.<br>
+- **Data Analysis**: Applying DAX functions and statistical techniques to uncover trends.<br>
+- **Advanced Excel**: Complex data analysis with Pivot Tables, VLOOKUP, and HLOOKUP.<br> <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kanchan prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchan prajapati" height="30" width="40" /></a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="Coding" width="500" src="https://www.truesenseamc.com/assets/img/data.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchan8866&show_icons=true&locale=en&layout=compact" alt="kanchan8866" /></p>
+### 🛠 Skills & Tools:<br>
+- **Data Analytics**: SQL, Power BI, Tableau, Excel<br>
+- **Programming**: Python (pandas, numpy, matplotlib)<br>
+- **Database Management**: MySQL, <br>
+- **Data Visualization**: Power BI, Tableau<br>
+- **Data Cleaning & Transformation**: Power Query, Excel, Python<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchan8866&show_icons=true&locale=en" alt="kanchan8866" /></p>
+### 🎓 Certifications:<br>
+- Excel Expert: Advanced Data Analysis and Dashboard Creation<br>
+-	Power BI Data Analytics, Codebasics<br>
+-	Excel-Mother of Business Intelligence, Codebasics<br>
+-	Data Analytics and Visualization Job Simulation, Accenture<br>
+-	Data Analyst Certification, ExcelR Solutions <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan8866&" alt="kanchan8866" /></p>
+### 📫 How to reach me:<br>
+- LinkedIn - https://www.linkedin.com/in/kanchanprajapati/<br>- Email - kanchanprajapati06@gmail.com<br><br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kanchan Prajapati) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kanchan8866&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kanchan8866&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan8866&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kanchan8866&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kanchan8866&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
