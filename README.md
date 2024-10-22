@@ -11,7 +11,7 @@
 - **Advanced Excel**: Complex data analysis with Pivot Tables, VLOOKUP, and HLOOKUP.<br> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="right" alt="Coding" width="500" src="https://www.truesenseamc.com/assets/img/data.gif">
+<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/mjEP21E0qLcLORry/e04182f6094f2764001c1df50b6a2971-1-AQE8Wal5p4FWbXwg.gif">
 
 
 ### 🛠 Skills & Tools:<br>
